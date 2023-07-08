@@ -199,6 +199,51 @@ nav>ul>li{
    button:hover{
       background:rgb(91, 91, 151);
    }
+
+   .sec5{
+      height:650px;
+      background:rgb(91, 91, 175);
+   }
+   .sec5-div1{
+      display:flex;
+      justify-content: space-around;
+      align-items: center;
+   
+   }
+ .sec5-div1>.sec5-div{
+   background-color: rgb(171, 224, 224);
+   height:350px;
+   margin-top:110px;
+ }
+ .sec5-div1>.sec5-div>h2{
+      margin:0px 80px;
+}
+.sec5-div1>.sec5-div>p{
+   margin:0px 50px;
+   text-align:justify;
+}
+small{
+   margin-left:70px;
+}
+ .sec5-div{
+   width:300px;
+ }
+
+   .ig{
+      height:90px;
+      width:130px;
+      margin:70px;
+      border-radius: 100px;;
+   }
+   .sec6{
+      height:650px;
+      background-color: aqua;
+   }
+   .sec6-div{
+      display:flex;
+      justify-content: space-around;
+      word-wrap: wrap;
+   }
   
    
 
